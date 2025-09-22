@@ -10,9 +10,12 @@ A classe Principal, no package view, deve ter na Main, a criação de 2 filas, a
 A classe FilaController deve ter os métodos de validação das operações oferecidas na Main da Classe Principal. Todos os métodos devem receber a fila criada no método Main como parâmetro.
 
 • O método de inserir um novo elemento na fila;
+
 • O método de remover o primeiro elemento da fila, que será atendido. A fila não pode estar vazia;
+
 • O método de chamado que deve seguir a seguinte regra:
-•   Fazer 3 chamadas prioritárias para 1 da fila não prioritária
-•   Se não houver prioritários, já se deve chamar dos não prioritários
+
+  • Fazer 3 chamadas prioritárias para 1 da fila não prioritária
+  • Se não houver prioritários, já se deve chamar dos não prioritários
 
 <img width="148" height="100" alt="image" src="https://github.com/user-attachments/assets/f7d8b4d7-80eb-4d47-a213-56a1b559734e" />
